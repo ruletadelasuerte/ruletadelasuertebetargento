@@ -6,7 +6,7 @@ body, html {
   max-height: 100dvh; /* 🔒 evita que se expanda más */
   overflow: hidden;
   font-family: "Montserrat", sans-serif;
-  background: #300000;
+  background: #1a1a1a;  /* gris oscuro elegante */
   color: #fff;
   display: flex;
   flex-direction: column;
